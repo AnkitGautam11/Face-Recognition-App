@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  /* background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);  */
+  background-image: url(https://i.ibb.co/bWMwrs2/uio.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  overflow: visible;
+  background-position: center center;
+}
+
+button {
+  cursor: pointer;
+}
